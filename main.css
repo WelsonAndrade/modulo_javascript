@@ -1,0 +1,22 @@
+body {
+    color:white;
+    background-color: black;
+}
+.message {
+    font-weight: bold;
+    }
+#campoA {
+    cursor: pointer;
+}
+#campoB {
+    cursor: pointer;
+}
+.valid {
+    color: green;
+    }
+.invalid {
+    color: red;
+    }
+button {
+    cursor: pointer;
+}
